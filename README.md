@@ -1,7 +1,7 @@
 # VITYARTHI-PROJECT
 A Python game built with Pygame where players control a bird to fly through moving pipes, avoiding collisions and scoring points by passing obstacles. Simple, fun, and educational.
 
-Features
+**Features**
 Animated bird sprites for realistic flapping motion.
 
 Randomly generated pipe obstacles for endless gameplay.
@@ -25,7 +25,7 @@ Objective: Avoid hitting pipes and the ground. Each time the bird passes through
 Restart: If your bird collides with a pipe or the ground, click the green Restart button to play again.
 
 
-Code Structure
+**Code Structure**
 Initialization of the game environment and window.
 
 Game loop with event handling for keyboard and mouse inputs.
