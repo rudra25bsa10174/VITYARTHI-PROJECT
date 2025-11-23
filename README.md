@@ -1,11 +1,11 @@
 # VITYARTHI-PROJECT
 A Python game built with Pygame where players control a bird to fly through moving pipes, avoiding collisions and scoring points by passing obstacles. Simple, fun, and educational.
 
-**Flappy Bird Game**
+**Flappy Bird Game:**
 
 A Python implementation of the classic Flappy Bird game using the Pygame library.
 
-**Features**
+**Features:**
 
 Animated bird sprites for realistic flapping motion.
 
@@ -19,7 +19,7 @@ Game over screen with a functional restart button.
 
 Graphics loaded from local image files.
 
-**How to Play**
+**How to Play:**
 
 Start Game: Run the script to launch the game window.
 
@@ -29,7 +29,7 @@ Objective: Avoid hitting pipes and the ground. Each time the bird passes through
 
 Restart: If your bird collides with a pipe or the ground, click the green Restart button to play again.
 
-**Code Structure**
+**Code Structure:**
 
 Initialization of the game environment and window.
 
@@ -42,7 +42,7 @@ Collision detection and game state management.
 Score updating and display.
 
 
-**Data Description**
+**Data Description:**
 
 This project uses image assets to create game visuals:
 
@@ -58,7 +58,7 @@ greenpipe.png: Pipe obstacle images.
 
 All images should be placed in the same directory as the script. These are standard PNG image files loaded using Pygame's image loader.
 
-**How to Use**
+**How to Use:**
 
 Ensure Python 3.x is installed.
 
@@ -75,7 +75,7 @@ Avoid pipes and the ground to score points.
 
 Click the green restart button to play again after game over.
 
-**Motivation**
+**Motivation:**
 
 Creating this Flappy Bird game serves multiple educational and personal growth purposes:
 
@@ -89,7 +89,7 @@ Provides hands-on programming experience in Python.
 
 Offers a fun and engaging way to learn game development.
 
-**Contact Information**
+**Contact Information:**
 
 For questions or suggestions, please contact:
 
@@ -97,6 +97,7 @@ Email: rudra.25bsa10174@vitbhopal.ac.in
 
 GitHub: https://github.com/rudra25bsa10174
 
-**License**
+
+**License:**
 
 This project and assets are for educational and personal use only. Redistribution or commercial use of assets requires appropriate permissions.
