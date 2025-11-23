@@ -100,4 +100,6 @@ GitHub: https://github.com/rudra25bsa10174
 
 **License:**
 
-This project and assets are for educational and personal use only. Redistribution or commercial use of assets requires appropriate permissions.
+This project and assets are for educational and personal use only. 
+
+Redistribution or commercial use of assets requires appropriate permissions.
